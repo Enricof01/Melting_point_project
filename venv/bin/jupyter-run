@@ -1,4 +1,4 @@
-#!/Users/enricofritz/Documents/Meltingpoint_rep/Melting_point_project/venv/bin/python
+#!/Users/enricofritz/Documents/Meltingpoint_rep/Melting_point_project/venv/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
